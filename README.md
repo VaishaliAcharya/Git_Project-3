@@ -1,8 +1,6 @@
 
-### Project Overview
+### Project Overview-Nano Degree program
 This project focuses on using panda and simple statistsics to perform analysis on the bikeshare  data of 3 cities. 
-### Nano Degree program
-
 
 ### Description
 The program takes user input and filter the data of bike usage in each of the 3 cities by Month , day , hour. The program also helps in providing information on 
@@ -20,5 +18,5 @@ new_york_city.csv
 washington .csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Xlow , youtube videos , Stakeflow forums
 
