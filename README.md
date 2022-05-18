@@ -1,17 +1,14 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+###Project Overview-Nano Degree program This project focuses on using panda and simple statistsics to perform analysis on the bikeshare data of 3 cities.
 
-### Project Title
-Replace the Project Title
+###Description The program takes user input and filter the data of bike usage in each of the 3 cities by Month , day , hour.
 
-### Description
-Describe what your project is about and what it does
+The program also helps in providing information on :
 
-### Files used
-Include the files used
+Most popular End and start station
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Total trip duration. Types of Users Types of users by Gender ( only applicable for 2 cities) The oldest User The youngest User Most common user birth year
 
+###Files used Files used - Chicago.csv, new_york_city.csv ,washington .csv
+
+###Credits Xlow , youtube videos , Stakeflow forums
