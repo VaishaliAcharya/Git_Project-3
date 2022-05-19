@@ -1,7 +1,9 @@
 
 
 ### Project Overview-Nano Degree program
-This project focuses on using panda and simple statistsics to perform analysis on the bikeshare  data of 3 cities. 
+This project focuses on using panda and numpy and simple statistsics to perform analysis on the bikeshare  data of 3 cities. 
+
+### Software used - Python ,Panda, Numpy and Jupter all downloaded from Anaconda 
 
 ### Description
 The program takes user input and filter the data of bike usage in each of the 3 cities by Month , day , hour. 
@@ -14,6 +16,7 @@ The oldest User
 The youngest User
 Most common user birth year 
 
+
 ### Files used
 Files used - 
 Chicago.csv- This file contains all bikeshare information for city of Chicago. 
@@ -23,5 +26,7 @@ washington .csv -  This file contains all bikeshare information for city of Chic
 
 ### Credits
 Xlow , youtube videos , Stakeflow forums
+
+
 
 
